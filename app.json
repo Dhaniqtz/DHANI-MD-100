@@ -1,7 +1,7 @@
 {
-  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-  "description": "Powerful whatsapp bot made by sihilel",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "DHANI-MD",
+  "description": "Powerful whatsapp bot made by Danitha Chiran",
+  "logo": "https://github.com/Dhaniqtz/DHANI-MD-100/blob/main/Image/file_00000000d60871fd86e88fa5ba092f9d.png",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://github.com/Dhaniqtz/DHANI-MD-100/blob/main/Image/file_00000000d60871fd86e88fa5ba092f9d.png.",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "DHANI IS ONLINE.",
       "required": true
     }   
 },
